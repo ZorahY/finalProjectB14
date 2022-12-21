@@ -16,6 +16,7 @@ public class Main {
         stuart.size=23423;
         stuart.rings="5";
         stuart.temperature="-4884848k";
+        // added
     }
 
 }
