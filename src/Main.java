@@ -16,6 +16,7 @@ public class Main {
         Boris.size=233;
         Boris.rings="1";
         Boris.temperature="848k";
+        // new comment
     }
 
 }
